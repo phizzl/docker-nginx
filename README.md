@@ -1,0 +1,1 @@
+# Ansible ready nginx image
