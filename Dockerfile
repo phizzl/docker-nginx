@@ -1,4 +1,4 @@
-FROM nginx:1.19.5
+FROM nginx:1.19.6
 
 LABEL maintainer "Phizzl <the@phizzl.it>"
 
